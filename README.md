@@ -2,7 +2,7 @@ Hi, I’m Matt Fallon (@mafallon94), a 28 year old currently finishing a Compute
 
 I am a capable programmer, with a keen understanding of back end programming with Java, database programming with SQL, and front end programming with Java FX.
 
-My Git-hub repository documents all the projects I have completed so far, mostly in Java programming. There is:
+My Git-hub repositories document all the projects I have completed so far, mostly in Java programming. There is:
 - A limited implemention of a Bingo Card game (Java)
 - A text based exploration game, in which the player controls a character through simple text commands to explore a cave rumored to be filled with wealth (Java)
 - A Student Marks Capturing System with GUI (Java & Java FX)
